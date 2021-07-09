@@ -1,6 +1,6 @@
 # Find_Minimum_Shortest_Path
 
-![alt text](http://url/to/img.png)<br>
+![alt text](https://github.com/mervesrn/Find_Minimum_Shortest_Path_from_TurkeyMaptext/blob/main/Ekran%20Resmi%202021-07-09%2012.59.10.png)<br>
 ![alt text](http://url/to/img.png)<br>
 ![alt text](http://url/to/img.png)<br>
 
