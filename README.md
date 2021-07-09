@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mervesrn/Find_Minimum_Shortest_Path_from_TurkeyMaptext/blob/main/Ekran%20Resmi%202021-07-09%2012.59.10.png)<br>
 ![alt text](https://github.com/mervesrn/Find_Minimum_Shortest_Path_from_TurkeyMaptext/blob/main/Ekran%20Resmi%202021-07-09%2012.59.32.png)<br>
-![alt text](https://github.com/mervesrn/Find_Minimum_Shortest_Path_from_TurkeyMaptext/blob/main/Ekran%20Resmi%202021-07-09%2012.59.32.png)<br>
+![alt text](https://github.com/mervesrn/Find_Minimum_Shortest_Path_from_TurkeyMaptext/blob/main/Ekran%20Resmi%202021-07-09%2012.59.50.png)<br>
 
 adjacent( x, y): tests whether there is an edge from the vertex x to the vertex y;<br>
     neighbors( x): lists all vertices y such that there is an edge from the vertex x to the vertex y;<br>
